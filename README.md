@@ -1,8 +1,9 @@
 # Requests_scripts
 Simple Python scripts making synchronous - asynchronous - concurrent asynchronous url requests
 
-# Requirements (libraries)
+# Requirements
 
+## Python libraries
 * requests : 
 ``` pip install requests ```
 * aiohttp :
@@ -12,6 +13,11 @@ OR
 
 ``` pip install -r requirements.txt```
 
+## Github files
+
+Download repo: ``` git clone https://github.com/antondim/Requests_scripts.git```
+
+
 # Usage
 
 <ins>Example usage of scripts: </ins>
@@ -20,4 +26,4 @@ OR
 
 <ins>Arguments: </ins>
 
-**N :** Integer number of requests that we want to perform
+**N :** Number of requests that we want to perform (integer)
